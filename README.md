@@ -14,4 +14,4 @@ Change <.onion site> parts from the code to a valid onion site that you want to 
 #### Usage
 python DeepWebCrawler.py
 
-![](https://ibb.co/wwpXVJM)
+![](https://i.ibb.co/LJ9WmQn/POC.png)
